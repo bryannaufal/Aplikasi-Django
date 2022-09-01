@@ -1,0 +1,1 @@
+web: gunicorn websiteJago.wsgi --log-file -
